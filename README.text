@@ -1,0 +1,7 @@
+Notre projet passe toute les ROM de test 
+Nous avons structuré notre programme en 3 entité ayant chacune son .c et son .h :
+	- emulateur
+	- ram
+	- processeur
+Nous avons egalement rendu accessible les ROM de test ainsi qu'une ROM tetris dans un dossier Rom_test 
+Et enfin nous avons essayé d'implementer une documentation doxygen mais par manque de maitrise du logiciel on a les commentaire mais pas le fichier rtf
