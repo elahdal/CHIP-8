@@ -25,7 +25,8 @@ A singleton design pattern is used for managing core components of the system, s
 - **Resource Management**: The memory and display need to be accessed by different parts of the emulator (e.g., opcode execution and input handling), and having a single instance prevents conflicts and ensures consistent state across the application.
 
   
-      ![chip-8-logo (1)](https://github.com/user-attachments/assets/d34e2056-dfa3-49e9-9362-7c69221bb1c0)
+  ![chip-8-logo (1)](https://github.com/user-attachments/assets/d34e2056-dfa3-49e9-9362-7c69221bb1c0)
+  
 
 ## Emulator Structure
 
